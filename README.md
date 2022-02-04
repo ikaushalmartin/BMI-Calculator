@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter project.
+BMICalculator Using Flutter
 
 ## Getting Started
 
