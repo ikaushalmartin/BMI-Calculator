@@ -1,6 +1,6 @@
-# bmicalculator
+# BMICalculator
 
-BMICalculator Using Flutter
+###BMICalculator Using Flutter
 
 ## Getting Started
 
